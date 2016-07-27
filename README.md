@@ -1,8 +1,6 @@
 # pandoc-bootstrap-template
 
-=========================
-
-Bootstrap template for Pandoc - Converts markdown files into Twitter Bootstrap styled HTML
+Bootstrap template for Pandoc - Converts *markdown* files into Twitter Bootstrap styled HTML
 
 ## Usage example
 
@@ -22,9 +20,9 @@ Bootstrap template for Pandoc - Converts markdown files into Twitter Bootstrap s
 
 Recommendation: Use [VSCode](https://code.visualstudio.com) to generate markdown files and use vscode extensions.
 
-*[markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-*[vscode-pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc)
-*[download pandoc](https://github.com/jgm/pandoc/releases/tag/1.17.2)
+* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [vscode-pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc)
+* [download pandoc](https://github.com/jgm/pandoc/releases/tag/1.17.2)
 
-*To preview a markdown file Ctrl+K, V
-*To generate html, docx, pdf use Ctrl+K, P
+* To preview a markdown file Ctrl+K, V
+* To generate html, docx, pdf use Ctrl+K, P
